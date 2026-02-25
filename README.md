@@ -7,11 +7,8 @@ root@palmmedia:~$ whoami
 > Builder · Security · Open Source · 掌媒科技有限公司
 root@palmmedia:~$ uptime
 > 10+ years in the game. Still running.
-```
 
-## $ cat about.txt
-
-```yaml
+root@palmmedia:~$ cat about.txt
 name:     静水流深
 company:  掌媒科技有限公司 · PalmMedia Technology Co.
 location: Wuhan, China  /  Canada
@@ -20,52 +17,32 @@ focus:
   - Supply chain security
   - Open source infrastructure
   - 让中国站长用上干净可信赖的工具
-```
 
-## $ ls -la projects/
+root@palmmedia:~$ ls -la projects/
+🛡️  NextLNMP   — 安全可信的 LNMP 一键建站，SHA256逐包校验，替代 lnmp.org
+🔍  VPSCheck   — VPS全能体检：流媒体 / IP质量 / 回程路由 / 跑分
+⚡  BBR加速    — Google BBR 一键开启，代码精简，无私货
 
-### 🛡️ [NextLNMP](https://github.com/NextLNMP/nextlnmp) — 安全可信的 LNMP 一键建站
-
-> 替代被收购的 lnmp.org。每个源码包 SHA256 校验，杜绝供应链投毒。
-
-```bash
+root@palmmedia:~$ cat install.sh
 bash <(curl -sL https://gitee.com/palmmedia/nextlnmp/raw/main/install.sh)
-```
 
-![Shell](https://img.shields.io/badge/Shell-94%25-4EAA25?style=flat&logo=gnubash&logoColor=white) ![PHP](https://img.shields.io/badge/PHP_5.6~8.4-777BB4?style=flat&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL_5.1~8.4-4479A1?style=flat&logo=mysql&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+root@palmmedia:~$ cat stack.txt
+Linux · Nginx · MySQL · PHP · Shell · Debian · Aliyun · Cloudflare
 
-### 🔍 [VPSCheck](https://github.com/adsorgcn/vpscheck) — VPS 全能体检
-
-> 买完 VPS 第一件事：一行命令跑完流媒体 / IP质量 / 回程路由 / 跑分。
-
-### ⚡ [BBR 一键加速](https://github.com/adsorgcn/bbr-script) — Google BBR 极速开启
-
-> 代码精简，无私货，一行命令，网速立竿见影。
-
-## $ cat stack.txt
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Aliyun](https://img.shields.io/badge/Aliyun_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-
-## $ git log --oneline
-
-```
+root@palmmedia:~$ git log --oneline
 🚀 NextLNMP v1.5.1  — PHP Binary 急速安装 < 1min, CI 全自动化
 🔧 NextLNMP v1.4.0  — install.sh 状态机重构，三源容灾下载
 🛡️ NextLNMP v1.0.0  — 首发，SHA256 逐包校验，替代 lnmp.org
 ⚡ BBR v1.0.3       — 代码精简 75%，修复 7 个 Bug
 🔍 VPSCheck        — 全能 VPS 检测，流媒体+IP质量+跑分
-```
 
-## $ cat contact.txt
-
-```
+root@palmmedia:~$ cat contact.txt
 QQ群    : 615298  (NextLNMP 技术支持)
 Twitter : @adsorgcn
 Email   : github@whu.edu.cn
 Web     : ads.org.cn  ·  cnwebmasters.com
-```
 
-```
-[ GPL-3.0 + 商业双授权 · 掌媒科技有限公司出品 ]
-[ 用干净的工具，做干净的事 ]
+root@palmmedia:~$ cat license.txt
+GPL-3.0 + 商业双授权 · 掌媒科技有限公司出品
+用干净的工具，做干净的事
 ```
