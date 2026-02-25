@@ -9,7 +9,7 @@ root@palmmedia:~$ uptime
 > 10+ years in the game. Still running.
 ```
 
-## $ cat about.txt
+## 关于我
 
 ```yaml
 name:     静水流深
@@ -22,7 +22,7 @@ focus:
   - 让中国站长用上干净可信赖的工具
 ```
 
-## $ ls -la projects/
+## 项目
 
 ### 🛡️ [NextLNMP](https://github.com/NextLNMP/nextlnmp) — 安全可信的 LNMP 一键建站
 
@@ -42,11 +42,11 @@ bash <(curl -sL https://gitee.com/palmmedia/nextlnmp/raw/main/install.sh)
 
 > 代码精简，无私货，一行命令，网速立竿见影。
 
-## $ cat stack.txt
+## 技术栈
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Aliyun](https://img.shields.io/badge/Aliyun_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
-## $ git log --oneline
+## 更新日志
 
 ```
 🚀 NextLNMP v1.5.1  — PHP Binary 急速安装 < 1min, CI 全自动化
@@ -56,7 +56,7 @@ bash <(curl -sL https://gitee.com/palmmedia/nextlnmp/raw/main/install.sh)
 🔍 VPSCheck        — 全能 VPS 检测，流媒体+IP质量+跑分
 ```
 
-## $ cat contact.txt
+## 联系方式
 
 ```
 QQ群    : 615298  (NextLNMP 技术支持)
