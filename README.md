@@ -56,7 +56,7 @@ I think in systems, not features. Every tool is a node in a larger network. If a
 |---------|-----|-------------|
 | 🏨 **Hotel Corporate Codes** | [hotelcorporatecodes.com](https://hotelcorporatecodes.com) | 123+ verified hotel discount codes. AI advisor recommends the best code for your destination. Every query auto-generates a unique SEO page. |
 | 🏠 **Real Address Generator** | [realaddressgenerator.online](https://realaddressgenerator.online) | Generate real, formatted addresses for 22+ countries. 34 SEO blog articles. Fully automated content machine. |
-| 📡 **I-Lang Protocol** | [ilang.ai](https://ilang.ai) / [ilang.cn](https://ilang.cn) | AI-native communication protocol. Three-layer architecture: PUBLIC / PRIVATE / SOUL. The language machines speak to each other. |
+| 📡 **I-Lang Protocol** | [ilang.ai](https://ilang.ai) / [ilang.cn](https://ilang.cn) | The world's best prompt engineering protocol. Compresses instructions while improving accuracy. Less tokens, better results. |
 | 🛠️ **NextLNMP** | [nextlnmp.com](https://nextlnmp.com) / [nextlnmp.cn](https://nextlnmp.cn) | Secure LNMP stack with SHA256 supply chain verification. The trusted alternative for Chinese webmasters. |
 
 ---
@@ -84,7 +84,7 @@ I think in systems, not features. Every tool is a node in a larger network. If a
 Infrastructure    Cloudflare Workers · R2 · KV · Pages
 AI                Gemini API · Claude · Prompt Engineering
 Languages         Bash · Python · JavaScript (CF Workers)
-Protocol          I-Lang (PUBLIC / PRIVATE / SOUL)
+Protocol          I-Lang — compress more, say less, mean everything
 Distribution      GitHub · npm · COS · CF CDN
 Philosophy        Minimal viable. Ship fast. Let AI iterate.
 ```
