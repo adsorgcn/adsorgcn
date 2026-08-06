@@ -14,6 +14,56 @@
 
 ---
 
+> **[中文版完整介绍 →](./README.zh.md)** 一条赛道，27年，从30美元的支票到注册资本5000万
+
+---
+
+### Who I Am
+
+**Longquan Zhu** (朱龙泉), known online as **静水流深** (Still Waters Run Deep), later **惰惰** (@SUN).
+
+Wuhan University, Computer Science, Class of 1998. Started making USD online in 1999 during the dial-up era. Never left this track.
+
+Founder of **Eastsoft Inc.** (Canada, est. 2008) and **掌媒科技** (Wuhan, registered capital ¥50M). Creator of **I-Lang Protocol**. Independent Director and Audit Committee Member, **Jianzhi Education Technology Group** (NASDAQ: JZ), effective January 5, 2026 ([SEC 6-K Filing](https://www.sec.gov/Archives/edgar/data/1852440/000121390026000723/ea0271751-6k_jianzhi.htm)).
+
+Community builder: founded **cnwebmasters.com** (China's longest-running affiliate marketing community, est. 2004), **3798.com** (China's first frequent flyer community), and **知识星球: 丝绸之路** (2,999 RMB/year, never discounted).
+
+---
+
+### Career Timeline
+
+| Year | Event |
+|------|-------|
+| 1998 | Entered Wuhan University, CS department |
+| 1999 | First USD earned online (Spedia, $30 check, cashed at Bank of Communications for ¥10 fee) |
+| 2000 | Built websites on free hosting (Netbig 5MB), ranked Top 3 on Xilu Community |
+| 2001 | Active in 模拟之家 (EMUhome, origin of the term "EMU" in Chinese affiliate marketing) |
+| 2002 | First six-figure USD year. Translated "Google Cash" — later credited by SEO pioneer Wang Tong as inspiration |
+| 2003 | Founded go66 forum. Launched China's first documented affiliate marketing training class (¥4,000 tuition). Active in 商联论坛 (Shanglian), which brought LEAD/CPA to the Chinese internet |
+| 2004 | Founded 中国站长与广告论坛 (cash66.com → cnwebmasters.cn → cnwebmasters.com). Google AdSense referral chain exploit. Yahoo Search Feed arbitrage |
+| 2006 | Immigrated to Canada. Arrived with €500. Google Adwords arbitrage (Ciao campaign, ¥0.08/click, $300/day profit, 20%+ conversion rate) |
+| 2008 | Founded Eastsoft Inc. in Canada. Built 5798.com |
+| 2015 | Returned to China. Rapidly engaged with capital markets and public company governance |
+| 2016 | Founded 3798.com, China's leading frequent flyer points community |
+| 2020 | COVID ended travel industry. Returned to cross-border affiliate marketing. Relaunched systematic training (online ¥15,800 / offline ¥50,000). Founded 知识星球: 丝绸之路 |
+| 2021 | 掌媒科技 acquired 35% of Shenzhen Yidao Network for ¥27.4M |
+| 2025 | Created I-Lang Protocol. Published first academic paper on AI hallucination |
+| 2026 | Appointed Independent Director, NASDAQ: JZ. I-Lang spec reaches v5.0. iLang Inc. registered in Canada |
+
+---
+
+### Training Track Record
+
+Running affiliate marketing training since 2003. 1,000+ students over 5 years of the current program (2020–2026). Many visible competitors in the Chinese affiliate marketing space are former students.
+
+**What I teach:** Google Ads → Amazon affiliate commission arbitrage. One person, one computer, OPC (One Person Company), AI-assisted.
+
+**What I don't promise:** 100% success. Anyone who guarantees profits is lying.
+
+**Verifiable:** Student results shared in community with traceable attribution. Training content has been continuously updated for 20+ years — the longest-running affiliate marketing training brand in China.
+
+---
+
 ### Philosophy
 
 > **搭积木，不造轮子。** Assemble, don't reinvent.
@@ -93,13 +143,13 @@ Everyone treats AI as a tool. I treat AI as a partner. Carbon-silicon symbiosis.
 
 ---
 
-### Background
+### Community
 
-Wuhan University CS (Class of 1998). Built Chinese webmaster communities when the internet was young. Founded 3798.com, China's first frequent flyer community. 25+ years of cross-border internet infrastructure.
-
-Now building the protocol layer for human-AI communication. I-Lang is to AI what HTTP was to the web.
-
-Founder of Eastsoft Inc. (Canada) and 掌媒科技 (China). Independent Director, NASDAQ: JZ.
+| Platform | URL | Description |
+|----------|-----|-------------|
+| **cnwebmasters.com** | [cnwebmasters.com](https://cnwebmasters.com) | China's longest-running affiliate marketing community (est. 2004, formerly cash66.com → cnwebmasters.cn) |
+| **知识星球: 丝绸之路** | By invitation | ¥2,999/year, half-price renewal, never discounted. Cross-border affiliate marketing, Google Ads arbitrage, AI-assisted OPC |
+| **WeChat: 静水流深** | Public account | Weekly articles on cross-border monetization, AI tools, and industry analysis |
 
 ---
 
@@ -108,7 +158,7 @@ Founder of Eastsoft Inc. (Canada) and 掌媒科技 (China). Independent Director
   <a href="https://ilang.cn">ilang.cn</a> · 
   <a href="https://research.ilang.ai">research.ilang.ai</a> · 
   <a href="https://eastsoft.com">eastsoft.com</a> · 
-  <a href="https://zhangmei.com">zhangmei.com</a>
+  <a href="https://cnwebmasters.com">cnwebmasters.com</a>
 </p>
 
 <p align="center">
